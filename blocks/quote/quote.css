@@ -58,14 +58,14 @@
     background-color: darkgray;
 }
 
-.bg-red {
+.block.quote bg-red {
     background-color: darkred;
 }
 
-.bg-green {
+.block.quote bg-green {
     background-color: darkgreen;
 }
 
-.bg-blue {
+.block.quote bg-blue {
     background-color: darkblue;
 }
