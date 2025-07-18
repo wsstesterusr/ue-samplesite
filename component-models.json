@@ -241,6 +241,11 @@
         "valueType": "string",
         "options": [
             {
+              "name": "Default",
+              "value": ""
+            },
+
+            {
               "name": "Red",
               "value": "bg-red"
             },
