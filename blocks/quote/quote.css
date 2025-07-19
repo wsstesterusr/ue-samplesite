@@ -58,14 +58,17 @@
     background-color: darkgray;
 }
 
-.block.quote bg-red {
+.block.quote.bg-red > div:last-child > div::after {
     background-color: darkred;
+    color: white;
 }
 
-.block.quote bg-green {
+.block.quote.bg-green > div:last-child > div::after {
     background-color: darkgreen;
+    color: white;
 }
 
-.block.quote bg-blue {
+.block.quote.bg-blue > div:last-child > div::after {
     background-color: darkblue;
+    color: white;
 }
