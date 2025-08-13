@@ -72,3 +72,8 @@
     background-color: darkblue;
     color: white;
 }
+
+.block.quote.bg-yellow {
+    background-color: darkyellow;
+    color: white;
+}
