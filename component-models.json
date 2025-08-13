@@ -256,6 +256,10 @@
             {
               "name": "Blue",
               "value": "bg-blue"
+            },
+            {
+              "name": "Yellow",
+              "value": "bg-yellow"
             }
           ]
         }
